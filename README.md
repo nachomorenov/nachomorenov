@@ -18,7 +18,7 @@
 ## 🛠️ Technologies and Tools
 
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![PYTHON]
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
