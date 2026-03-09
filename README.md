@@ -11,6 +11,7 @@
 - 🎓 Software Engineering student (UBA)
 - 💻 Experience with academic and personal programming projects
 - 📚 Learning through structured coursework and hands-on practice
+- I know multiple programming languages ​​with different frameworks, and I'm currently getting into cybersecurity.
 
 ---
 
@@ -40,4 +41,4 @@
 ---
 
 ## 📫 Contact Me
-<p align="left"> <a href="https://github.com/nachomorenov"> <img src="https://img.shields.io/badge/GitHub-Gaspar2005-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/ignacio-manuel-moreno-vivot-8b182b200/"> <img src="https://img.shields.io/badge/LinkedIn-GasparChab-0A66C2?style=for-the-badge&logo=linkedIn" />
+<p align="left"> <a href="https://github.com/nachomorenov"> <img src="https://img.shields.io/badge/GitHub-nachomorenov-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/ignacio-manuel-moreno-vivot-8b182b200/"> <img src="https://img.shields.io/badge/LinkedIn-nachomorenov-0A66C2?style=for-the-badge&logo=linkedIn" />
