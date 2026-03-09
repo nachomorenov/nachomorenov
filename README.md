@@ -17,6 +17,7 @@
 ## 🛠️ Technologies and Tools
 
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/pypi/pyversions/:packageName)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
@@ -39,4 +40,4 @@
 ---
 
 ## 📫 Contact Me
-<p align="left"> <a href="https://github.com/gaspar2005"> <img src="https://img.shields.io/badge/GitHub-Gaspar2005-181717?style=for-the-badge&logo=github" /> </a> <a href="https://linkedin.com/in/gasparchab"> <img src="https://img.shields.io/badge/LinkedIn-GasparChab-0A66C2?style=for-the-badge&logo=linkedIn" /> </a> <a href="https://instagram.com/gaspar_chab"> <img src="https://img.shields.io/badge/Instagram-Gaspar_Chab-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+<p align="left"> <a href="https://github.com/nachomorenov"> <img src="https://img.shields.io/badge/GitHub-Gaspar2005-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/ignacio-manuel-moreno-vivot-8b182b200/"> <img src="https://img.shields.io/badge/LinkedIn-GasparChab-0A66C2?style=for-the-badge&logo=linkedIn" />
